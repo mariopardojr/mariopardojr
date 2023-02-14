@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Hi! I'm Mario!😁<h2/>
+<h3>Welcome to my GitHub's profile! 🐙</h3>
