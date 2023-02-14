@@ -1,17 +1,15 @@
-<!--
-**mariopardojr/mariopardojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi! I'm Mario Pardo!😁<h1/>
+Welcome to my GitHub's profile!🐙
+<br></br>
+- 💼 I’m currently working as Junior Software Enginner at Questrade📈
+- 💻 The technologies I use to work are Angular🅰️ and Typescript🟦
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 💡 I am familiar with React and React Native ⚛️
+- 🤔 My preference is Front-end, but I'm not afraid of Back-end 😎
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<h1>Hi! I'm Mario!😁<h1/>
-<span>Welcome to my GitHub's profile! 🐙</span>
+
+
+
