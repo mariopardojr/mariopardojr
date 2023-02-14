@@ -1,5 +1,5 @@
 ## Hi! I'm Mario Pardo!😁
-### Welcome to my GitHub's profile!🐙
+### Welcome to my GitHub profile!🐙
 
 <div>
   <img height="170em" src="https://github-readme-stats-mariopardojr.vercel.app/api?username=mariopardojr&show_icons=true&theme=tokyonight"/>
