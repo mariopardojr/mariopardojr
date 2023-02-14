@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi! I'm Mario!😁<h2/>
+<h1>Hi! I'm Mario!😁<h1/>
 <span>Welcome to my GitHub's profile! 🐙</span>
