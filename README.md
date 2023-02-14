@@ -2,8 +2,8 @@
 ### Welcome to my GitHub's profile!🐙
 
 <div>
-  <img height="150em" src="https://github-readme-stats-mariopardojr.vercel.app/api?username=mariopardojr&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats-mariopardojr.vercel.app/api/top-langs/?username=mariopardojr&layout=compact&theme=tokyonight&hide=procfile"/>
+  <img height="165em" src="https://github-readme-stats-mariopardojr.vercel.app/api?username=mariopardojr&show_icons=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats-mariopardojr.vercel.app/api/top-langs/?username=mariopardojr&layout=compact&theme=tokyonight&hide=procfile"/>
 </div>
 
 ##
