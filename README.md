@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats-mariopardojr.vercel.app/api/top-langs/?username=mariopardojr&layout=compact&theme=tokyonight&hide=procfile"/>
 </div>
 
+##
+
 - 💼 I’m currently working as Junior Software Enginner at Questrade📈
 - 💻 The technologies I use to work are Angular🅰️ and Typescript🟦
 - 💡 I am familiar with React and React Native ⚛️
