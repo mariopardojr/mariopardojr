@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mariopardojr/mariopardojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hi! I'm Mario!😁<h2/>
-<h3>Welcome to my GitHub's profile! 🐙</h3>
+<span>Welcome to my GitHub's profile! 🐙</span>
