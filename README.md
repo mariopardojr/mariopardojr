@@ -4,7 +4,6 @@
 <div>
   <img height="170em" src="https://readmestats.999857.xyz/api?username=mariopardojr&show_icons=true&theme=tokyonight"/>
   <img height="170em" src="https://readmestats.999857.xyz/api/top-langs/?username=mariopardojr&layout=compact&theme=tokyonight&hide=procfile"/>
-  https://readmestats.999857.xyz
 </div>
 
 <div style="display: inline-block"><br>
